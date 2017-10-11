@@ -6,7 +6,10 @@ ufw tor block
 curl -L https://raw.githubusercontent.com/random-robbie/torblock-ufw/master/torblock.sh | bash
 ```
 
-Readme
+
+
+
+About
 --------
 
 This will grab a list of tor exit nodes and add them to your block list for ufw.
